@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on web development project
  
-- 💬 Ask me about ...Web Development,Graphics,UI/UX
+- 💬 Ask me about ###Web Development,Graphics,UI/UX
 - 📫 How to reach me: ...https://www.linkedin.com/in/samridhi-bhatia-9238151a0/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
