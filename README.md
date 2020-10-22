@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning react native
 - 👯 I’m looking to collaborate on projects
 - ✔ On-Chair at [ACM-CIET](https://acm.chitkara.edu.in)
-- 💻 Web Developer at The Suited Monks.
+- 
 👨‍💻 Ex web dev [Hack Space Security Services](https://hackspace.co.in/) 
 - 💬 Ask me about Graphics,Front-end, and UI/UX
 - 📫 How to reach me:https://www.linkedin.com/in/samridhi-bhatia-9238151a0/
